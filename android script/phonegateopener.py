@@ -2,6 +2,8 @@ import android
 import urllib
 import urllib2
 
+"""this is ran on Python 4 Android"""
+
 droid = android.Android
 gate_ip = 192.168.1.64:8080 #change this to your web server obv
 password = 1111 #I suggest changing password here and in the web server
